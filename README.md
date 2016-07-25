@@ -1,8 +1,7 @@
 # fun_hdd_overwrite
 
 Overview:
-- simple script to copy~ copy~ copy~ repeat in the specific files.
-- when file creates random tags add at the name of file.
+- simple script to copy the specific files repeatedly
 
 Requirements:
 - many kinds of recoverable files by the HDD Recovery Tools.
